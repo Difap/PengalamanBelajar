@@ -1,5 +1,6 @@
 # PengalamanBelajar
 
+# ini tanggal 30 agustus 2023 cek nyambungin ini ke local pake git
 Repository Ini Berisi Pengalaman Belajar di Dicoding
 
 
